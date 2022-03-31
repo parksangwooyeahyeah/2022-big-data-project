@@ -12,6 +12,7 @@ My computer
 
 ### Analysis
 Preprocessing, Visualization : Pandas, Numpy, Matplotlib, Seaborn, Counter, Sklearn, Keras(Tokenizer), Wordcloud
+
 Modeling : Keras - GRU, LSTM
 
 
